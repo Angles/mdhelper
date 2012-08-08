@@ -8,7 +8,7 @@ Status as _mdhelper_ as of July 16, 2012.
 * __broken__.
 
 
-* __will not be fixed__.
+* __will not be fixed__ &quot;_anytime soon_&quot;
 
 
 ## &quot;... full rewrite. Not likely ...&quot;
